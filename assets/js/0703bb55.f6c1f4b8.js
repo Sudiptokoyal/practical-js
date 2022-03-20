@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpractical_javascript=self.webpackChunkpractical_javascript||[]).push([[849],{6963:function(a){a.exports=JSON.parse('{"permalink":"/practical-js/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

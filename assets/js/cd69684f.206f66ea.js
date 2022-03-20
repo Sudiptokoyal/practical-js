@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpractical_javascript=self.webpackChunkpractical_javascript||[]).push([[295],{9946:function(a){a.exports=JSON.parse('{"allTagsPath":"/practical-js/blog/tags","slug":"/practical-js/blog/tags/hello","name":"hello","count":2,"permalink":"/practical-js/blog/tags/hello"}')}}]);

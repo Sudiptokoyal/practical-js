@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpractical_javascript=self.webpackChunkpractical_javascript||[]).push([[368],{1304:function(a){a.exports=JSON.parse('{"allTagsPath":"/practical-js/blog/tags","slug":"/practical-js/blog/tags/docusaurus","name":"docusaurus","count":4,"permalink":"/practical-js/blog/tags/docusaurus"}')}}]);
