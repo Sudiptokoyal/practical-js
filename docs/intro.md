@@ -2,21 +2,21 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Let's discover **Javascript**.
 
-## Getting Started
+## What you'll need
 
-Get started by **creating a new site**.
+-   [Node.js](https://nodejs.org/en/download/) version 14 or above (optional)
+-   Browser (Chrome, firefox, Safari)
+-   Editor (VS code recommend)
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## What is Javascript
 
-### What you'll need
+JavaScript (JS) is a **lightweight, interpreted, or just-in-time compiled programming language** with first-class functions. While it is most well-known as the **scripting language** for Web pages, many non-browser environments also use it, such as Node.js, Apache CouchDB and Adobe Acrobat. JavaScript is a **prototype-based, multi-paradigm, single-threaded, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles**.
 
-- [Node.js](https://nodejs.org/en/download/) version 14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
+<!--
 ## Generate a new site
 
 Generate a new Docusaurus site using the **classic template**.
@@ -44,4 +44,4 @@ The `cd` command changes the directory you're working with. In order to work wit
 
 The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes. -->
